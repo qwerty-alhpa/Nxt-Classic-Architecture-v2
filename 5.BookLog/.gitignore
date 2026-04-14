@@ -72,6 +72,10 @@ web_modules/
 # zip archives
 *.zip
 
+# nohup
+nohup.out
+server.log
+
 # Yarn Integrity file
 .yarn-integrity
 
